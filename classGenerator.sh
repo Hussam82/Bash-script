@@ -1,6 +1,8 @@
 #!/bin/bash
 
 
+### This script as added as an alias in the bashrc by the name of crtf
+
 read -p "Please enter your name: " name
 echo "Hello Mr. ${name}"
 read -p "Please enter your class name: " classname
