@@ -15,7 +15,7 @@
 #     if [[ -z ${line} ]]
 #     then
 #         echo "Thanks"
-#     elif [[ ${line} == "This is file1" ]]
+#     elif [ ${line}=="This is file1" ]
 #     then
 #         echo "We are printing the first line only"
 #     fi
